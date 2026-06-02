@@ -49,7 +49,7 @@ disp("Recognized Speech:");
 disp(text);
 
 ```
-### AUDIO 
+### AUDIO  
 [harvard.wav](https://github.com/user-attachments/files/26216204/harvard.wav)
 
 ## OUTPUT: 
